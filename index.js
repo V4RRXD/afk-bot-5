@@ -16,7 +16,7 @@ const config = {
   host: 'Spectral-Nova.aternos.me',
   port: 23782,
   username: 'VoidStriker',
-  password: 'Rio133003',
+  password: 'Rio133004',
   version: false
 };
 
